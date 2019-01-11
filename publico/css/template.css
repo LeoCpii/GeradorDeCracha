@@ -1,0 +1,79 @@
+/* template */
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cr-frame-primary-top{
+    width: 100%;
+    height: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.cr-background-primary{
+    background-color: #213842;
+}
+
+.cr-background-secondary{
+    background-color: #ff672e;
+}
+
+.cr-frame-secondary-top{
+    width: 100%;
+    height: 7px;
+}
+
+.cr-frame-primary-bottom{
+    width: 100%;
+    height: 40px;
+    margin-top: -15px;
+}
+
+.cr-frame-secondary-bottom{
+    width: 100%;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.cr-card{
+    max-width: 300px;
+    border-radius: 10px;
+}
+
+.cr-card-image-logo{
+    max-width: 173px;
+    max-height: 70px;
+    min-width: 173px;
+    max-height: 70px;
+    margin-bottom: 15px;
+}
+
+.cr-card-image{
+    max-width: 110px;
+    max-height: 110px;
+    min-width: 110px;
+    min-height: 110px;
+    /* border-bottom: 1px solid #ff672e; */
+}
+
+.cr-name-person{
+    font-size: 28px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.cr-name-profession{
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.cr-relative{
+    position: relative;
+}
+
+.cr-absolute{
+    position: absolute;
+    top: 0px;
+}
