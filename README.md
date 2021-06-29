@@ -2,7 +2,7 @@
 
 Respositório de estudo. Treinamento em utilização de template e eventos em tempo real
 
-## Instalendo servidor NodeJs
+## Instalando servidor NodeJs
 
 npm install http-server -g
 
